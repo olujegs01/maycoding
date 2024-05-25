@@ -1,8 +1,2 @@
-def module(length, width):
-    area =length*width
-    return area 
-
-import math
-def model2 (radius):
-    circumstance=2* math.pi *radius
-    return circumstance
+def printName(name):
+    print(f"Hello Mr/Ms {name}...we've been waiting for you!")
